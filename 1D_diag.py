@@ -6,7 +6,7 @@ import matplotlib as mpl
 
 # Read in files
 
-file = "fire_sc_trial.nc"
+file = "diagnostics_ts_10800.0.nc"
 
 dataset = Dataset(file, "r")
 
